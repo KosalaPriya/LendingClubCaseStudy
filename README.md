@@ -31,10 +31,10 @@ The data set we used to analysis this issue is the loan.csv file which has the h
 ## Technologies Used
 Pandas libray \
 numpy libray \
-matplotlib libray
-missingno library
-hvplot library
-seaborn library
+matplotlib libray \
+missingno library \
+hvplot library \
+seaborn library 
 
 
 
