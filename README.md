@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Lending Club Case study
 
 
 ## Table of Contents
@@ -8,15 +8,16 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This Project is about giving suggestions to the investors who is ready to fund the borrowers via lending club data.
+Based on the suggestions the investors should be able to decide whether they need to fund the requested borrower or not. 
+The lending club have provided the data to us, to do the analysis from which the suggestions can be derived.
+The business problem what the client facing here is the chances of giving loan to the wrong persons who will never pay the loan are high ie providing loan to the defaulters.
+And also the chances of not giving loan to the right person may result in loss of business for the investors.
+The data set we used to analysis this issue is the loan.csv file which has the history of previously loan availed borrowers data 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -28,25 +29,19 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Pandas libray
+numpy libray
+matplotlib libray
+missingno library
+hvplot library
+seaborn library
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This Project was made based on the previous modules information and live sessions
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Sumithra
+Priya
